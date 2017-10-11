@@ -1,0 +1,12 @@
+c:\Users\Administrator\Desktop\GroceryBazaar\bin\Debug\netcoreapp2.0\GroceryBazaar.deps.json
+c:\Users\Administrator\Desktop\GroceryBazaar\bin\Debug\netcoreapp2.0\GroceryBazaar.runtimeconfig.json
+c:\Users\Administrator\Desktop\GroceryBazaar\bin\Debug\netcoreapp2.0\GroceryBazaar.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\GroceryBazaar\bin\Debug\netcoreapp2.0\GroceryBazaar.dll
+c:\Users\Administrator\Desktop\GroceryBazaar\bin\Debug\netcoreapp2.0\GroceryBazaar.pdb
+c:\Users\Administrator\Desktop\GroceryBazaar\obj\Debug\netcoreapp2.0\GroceryBazaar.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\GroceryBazaar\obj\Debug\netcoreapp2.0\GroceryBazaar.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\GroceryBazaar\obj\Debug\netcoreapp2.0\GroceryBazaar.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\GroceryBazaar\obj\Debug\netcoreapp2.0\GroceryBazaar.dll
+c:\Users\Administrator\Desktop\GroceryBazaar\obj\Debug\netcoreapp2.0\GroceryBazaar.pdb
+c:\Users\Administrator\Desktop\GroceryBazaar\bin\Debug\netcoreapp2.0\GroceryBazaar.dll.config
+c:\Users\Administrator\Desktop\GroceryBazaar\obj\Debug\netcoreapp2.0\GroceryBazaar.csproj.GroceryBazaar.dll.config
